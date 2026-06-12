@@ -1,5 +1,10 @@
-# Data Validation Starter Kit
-### Plug-and-Play Streamlit App for Catching Bad Data Before It Costs You
+# Production Data Validation Starter Kit (Streamlit + ReportLab)
+
+An enterprise-ready validation framework designed for agencies to instantly clean, audit, and validate multi-source client marketing and product data before it feeds downstream BI tools (Tableau, Power BI, Looker Studio).
+
+### Agency Profit Impact:
+* **Eliminates Manual QA:** Cuts data engineering validation tasks from hours to a 10-second automated check.
+* **Protects Dashboard Integrity:** Prevents broken visualizations or inaccurate client-facing reporting caused by silent schema changes.
 
 [**Open Preview in Streamlit**](https://data--validator.streamlit.app) &nbsp;&nbsp; | &nbsp;&nbsp; [**📥 Download Full Kit for $97 →**](https://clearlineanalytics.gumroad.com/l/datastarterkit)
 
